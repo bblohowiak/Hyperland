@@ -12,3 +12,5 @@ Broadly speaking, the two-stage plan is to develop a simulation of:
 
 For more background and information, please visit the Hyperland node on the Open Science Framework:
 https://openscienceframework.org/project/dXJEO/wiki/home
+
+Also, please check out the wiki here on GitHub, which contains some of the same information.
