@@ -1,0 +1,11 @@
+"library" include
+
+
+block4 [2 -1 -1 -1] translate red shapecolor
+block4 [-4 -1 -1 -1]  translate green shapecolor
+block4 [-1 2 -1 -1]  translate blue shapecolor
+block4 [-1 -4 -1 -1]  translate yellow shapecolor
+block4 [-1 -1 2 -1]  translate gray shapecolor
+block4 [-1 -1 -4 -1]  translate white shapecolor
+block4 [-1 -1 -1 2] translate magenta shapecolor
+block4 [-1 -1 -1 -4]  translate #804000 shapecolor
