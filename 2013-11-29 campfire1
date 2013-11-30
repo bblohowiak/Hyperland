@@ -1,0 +1,37 @@
+"library" include
+"library3" include
+
+block4	[	0	7	0	0] translate white shapecolor
+block4	[	5	0	0	0] translate yellow shapecolor
+block4	[	-5	0	0	0] translate yellow shapecolor
+block4	[	0	0	5	0] translate red shapecolor
+block4	[	0	0	-5	0] translate red shapecolor
+block4	[	0	0	0	5] translate yellow shapecolor
+block4	[	0	0	0	-5] translate yellow shapecolor
+block4	[	.7	6	.7	.7	]	translate red shapecolor
+block4	[	.7	6	.7	-.7	]	translate green shapecolor
+block4	[	.7	6	-.7	.7	]	translate blue shapecolor
+block4	[	.7	6	-.5	-.5	]	translate yellow shapecolor
+block4	[	-.7	6	.7	.7	]	translate orange shapecolor
+block4	[	-.7	6	.7	-.7	]	translate yellow shapecolor
+block4	[	-.7	6	-.7	.7	]	translate magenta shapecolor
+block4	[	-.7	6	-.7	-.7	]	translate #800080 shapecolor
+block4	[	5	1	0	0] translate yellow shapecolor
+block4	[	-5	1	0	0] translate yellow shapecolor
+block4	[	0	1	5	0] translate yellow shapecolor
+block4	[	0	1	-5	0] translate yellow shapecolor
+block4	[	0	1	0	5] translate yellow shapecolor
+block4	[	0	1	0	-5] translate yellow shapecolor
+block4	[	5	2	0	0] translate yellow shapecolor
+block4	[	-5	2	0	0] translate yellow shapecolor
+block4	[	0	2	5	0] translate yellow shapecolor
+block4	[	0	2	-5	0] translate yellow shapecolor
+block4	[	0	2	0	5] translate yellow shapecolor
+block4	[	0	2	0	-5] translate yellow shapecolor
+
+block4	[	4.5	3	0	0] translate orange shapecolor
+block4	[	-4.5	3	0	0] translate orange shapecolor
+block4	[	0	3	4.5	0] translate orange shapecolor
+block4	[	0	3	-4.5	0] translate orange shapecolor
+block4	[	0	3	0	4.5] translate orange shapecolor
+block4	[	0	3	0	-4.5] translate orange shapecolor
