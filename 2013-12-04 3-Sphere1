@@ -1,0 +1,20 @@
+"library" include
+"library3" include
+
+//center level
+block4	[	0	7	0	3	]	translate	red	shapecolor
+block4	[	0	7	3	0	]	translate	red	shapecolor
+block4	[	3	7	0	0	]	translate	red	shapecolor
+block4	[	1.73	7	1.73	1.73	]	translate	red	shapecolor
+block4	[	0	7	0	-3	]	translate	red	shapecolor
+block4	[	0	7	-3	0	]	translate	red	shapecolor
+block4	[	-3	7	0	0	]	translate	red	shapecolor
+block4	[	-1.73	7	1.73	1.73	]	translate	red	shapecolor
+block4	[	1.73	7	-1.73	1.73	]	translate	red	shapecolor
+block4	[	1.73	7	1.73	-1.73	]	translate	red	shapecolor
+block4	[	1.73	7	-1.73	-1.73	]	translate	red	shapecolor
+block4	[	-1.73	7	-1.73	-1.73	]	translate	red	shapecolor
+block4	[	-1.73	7	1.73	-1.73	]	translate	red	shapecolor
+block4	[	-1.73	7	-1.73	1.73	]	translate	red	shapecolor
+
+//
