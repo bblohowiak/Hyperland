@@ -17,4 +17,18 @@ block4	[	-1.73	7	-1.73	-1.73	]	translate	red	shapecolor
 block4	[	-1.73	7	1.73	-1.73	]	translate	red	shapecolor
 block4	[	-1.73	7	-1.73	1.73	]	translate	red	shapecolor
 
-//
+//one level below center
+block4	[	2.83	6	0	0	]	translate	red	shapecolor
+block4	[	0	6	2.83	0	]	translate	red	shapecolor
+block4	[	0	6	0	2.83	]	translate	red	shapecolor
+block4	[	1.63	6	1.63	1.63	]	translate	red	shapecolor
+block4	[	-2.83	6	0	0	]	translate	red	shapecolor
+block4	[	0	6	-2.83	0	]	translate	red	shapecolor
+block4	[	0	6	0	-2.83	]	translate	red	shapecolor
+block4	[	-1.63	6	1.63	1.63	]	translate	red	shapecolor
+block4	[	1.63	6	-1.63	1.63	]	translate	red	shapecolor
+block4	[	1.63	6	1.63	-1.63	]	translate	red	shapecolor
+block4	[	1.63	6	-1.63	-1.63	]	translate	red	shapecolor
+block4	[	-1.63	6	-1.63	-1.63	]	translate	red	shapecolor
+block4	[	-1.63	6	1.63	-1.63	]	translate	red	shapecolor
+block4	[	-1.63	6	-1.63	1.63	]	translate	red	shapecolor
