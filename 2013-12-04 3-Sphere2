@@ -71,18 +71,18 @@ block4	[	-1.63	8	-1.63	1.63	]	translate	blue shapecolor
 //two levels above center
 block4	[	2.24	9	0	0	]	translate	red	shapecolor
 block4	[	-2.24	9	0	0	]	translate	red	shapecolor
-block4	[	0	9	-2.24	0	]	translate	red	shapecolor
-block4	[	0	9	2.24	0	]	translate	red	shapecolor
-block4	[	0	9	0	2.24	]	translate	red	shapecolor
-block4	[	0	9	0	-2.24	]	translate	red	shapecolor
-block4	[	-1.29	9	1.29	1.29	]	translate	red	shapecolor
-block4	[	1.29	9	-1.29	1.29	]	translate	red	shapecolor
-block4	[	1.29	9	1.29	-1.29	]	translate	red	shapecolor
-block4	[	1.29	9	-1.29	-1.29	]	translate	red	shapecolor
-block4	[	-1.29	9	-1.29	-1.29	]	translate	red	shapecolor
-block4	[	-1.29	9	1.29	-1.29	]	translate	red	shapecolor
-block4	[	-1.29	9	-1.29	1.29	]	translate	red	shapecolor
-block4	[	1.29	9	1.29	1.29	]	translate	red	shapecolor
+block4	[	0	9	-2.24	0	]	translate	yellow	shapecolor
+block4	[	0	9	2.24	0	]	translate	yellow	shapecolor
+block4	[	0	9	0	2.24	]	translate	green	shapecolor
+block4	[	0	9	0	-2.24	]	translate	green	shapecolor
+block4	[	-1.29	9	1.29	1.29	]	translate	gray shapecolor
+block4	[	1.29	9	-1.29	1.29	]	translate	gray shapecolor
+block4	[	1.29	9	1.29	-1.29	]	translate	gray shapecolor
+block4	[	1.29	9	-1.29	-1.29	]	translate	gray shapecolor
+block4	[	-1.29	9	-1.29	-1.29	]	translate	gray shapecolor
+block4	[	-1.29	9	1.29	-1.29	]	translate	gray shapecolor
+block4	[	-1.29	9	-1.29	1.29	]	translate	gray shapecolor
+block4	[	1.29	9	1.29	1.29	]	translate	gray shapecolor
 
 //three levels above center
 block4 [0	10	0	0] translate white shapecolor
