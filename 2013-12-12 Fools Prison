@@ -304,3 +304,23 @@ block4	[	3	5	0	-4	]	translate	gray	shapecolor
 block4	[	3	5	0	-5	]	translate	gray	shapecolor
 block4	[	3	5	0	-6	]	translate	gray	shapecolor
 block4	[	3	5	0	-7	]	translate	gray	shapecolor
+
+//stars
+block4	[	0	7	0	1	]	translate	yellow	shapecolor
+block4	[	0	7	0	-3	]	translate	yellow	shapecolor
+block4	[	0	7	0	-7	]	translate	yellow	shapecolor
+block4	[	-1	7	0	0	]	translate	yellow	shapecolor
+block4	[	-1	7	0	-4	]	translate	yellow	shapecolor
+block4	[	-2	7	0	1	]	translate	yellow	shapecolor
+block4	[	-2	7	0	-3	]	translate	yellow	shapecolor
+block4	[	-2	7	0	-7	]	translate	yellow	shapecolor
+block4	[	-3	7	0	0	]	translate	yellow	shapecolor
+block4	[	-3	7	0	-4	]	translate	yellow	shapecolor
+block4	[	1	7	0	1	]	translate	yellow	shapecolor
+block4	[	1	7	0	-3	]	translate	yellow	shapecolor
+block4	[	1	7	0	-7	]	translate	yellow	shapecolor
+block4	[	2	7	0	0	]	translate	yellow	shapecolor
+block4	[	2	7	0	-4	]	translate	yellow	shapecolor
+block4	[	3	7	0	1	]	translate	yellow	shapecolor
+block4	[	3	7	0	-3	]	translate	yellow	shapecolor
+block4	[	3	7	0	-7	]	translate	yellow	shapecolor
