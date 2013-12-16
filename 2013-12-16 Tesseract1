@@ -1,0 +1,19 @@
+"library" include
+"library3" include
+
+block4	[	-2	3	-2	-2	]	translate 	white 	shapecolor
+block4	[	-2	3	2	-2	]	translate 	white 	shapecolor
+block4	[	-2	3	-2	2	]	translate 	white 	shapecolor
+block4	[	2	3	-2	2	]	translate 	white 	shapecolor
+block4	[	2	3	2	-2	]	translate 	white 	shapecolor
+block4	[	2	3	2	2	]	translate 	white 	shapecolor
+block4	[	-2	7	2	-2	]	translate 	white 	shapecolor
+block4	[	-2	7	-2	2	]	translate 	white 	shapecolor
+block4	[	2	7	-2	2	]	translate 	white 	shapecolor
+block4	[	2	7	2	-2	]	translate 	white 	shapecolor
+block4	[	2	7	2	2	]	translate 	white 	shapecolor
+block4	[	-2	7	-2	-2	]	translate 	white 	shapecolor
+block4	[	-2	7	2	2	]	translate 	white 	shapecolor
+block4	[	-2	3	-2	-2	]	translate 	white 	shapecolor
+block4	[	2	3	-2	-2	]	translate 	white 	shapecolor
+block4	[	2	7	2	2	]	translate 	white 	shapecolor
