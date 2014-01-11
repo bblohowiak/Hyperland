@@ -1,0 +1,99 @@
+"library" include
+"library3" include
+
+16 0 meshring4 "mesh" def
+
+mesh magenta 0 heightconst null horizon
+mesh magenta 12 0.4 heightpower null horizon
+
+mesh
+[green #800080 null null gray white cyan #008080] colorblend
+[0 1.2 1.2 1.56 1.56 2.09 2.09 3]
+yellow
+[0 0.333 0.667 1]
+5 index sky
+
+mesh yellow 5 sun
+
+//level zero
+block4	[	-5	0	0	0	]	translate	red	shapecolor
+block4	[	0	0	0	-5	]	translate	red	shapecolor
+block4	[	0	0	-5	0	]	translate	red	shapecolor
+block4	[	0	0	5	0	]	translate	red	shapecolor
+block4	[	5	0	0	0	]	translate	red	shapecolor
+block4	[	0	0	0	5	]	translate	red	shapecolor
+block4	[	-2.89	0	2.89	-2.89	]	translate	magenta	shapecolor
+block4	[	-2.89	0	-2.89	-2.89	]	translate	magenta	shapecolor
+block4	[	-2.89	0	-2.89	2.89	]	translate	magenta	shapecolor
+block4	[	-2.89	0	2.89	2.89	]	translate	magenta	shapecolor
+block4	[	2.89	0	-2.89	2.89	]	translate	magenta	shapecolor
+block4	[	2.89	0	2.89	2.89	]	translate	magenta	shapecolor
+block4	[	2.89	0	2.89	-2.89	]	translate	magenta	shapecolor
+block4	[	2.89	0	-2.89	-2.89	]	translate	magenta	shapecolor
+
+//level 1								
+block4	[	2.83	1	2.83	-2.83	]	translate	magenta	shapecolor
+block4	[	2.83	1	-2.83	-2.83	]	translate	magenta	shapecolor
+block4	[	2.83	1	-2.83	2.83	]	translate	magenta	shapecolor
+block4	[	2.83	1	2.83	2.83	]	translate	magenta	shapecolor
+block4	[	-2.83	1	-2.83	2.83	]	translate	magenta	shapecolor
+block4	[	-2.83	1	2.83	2.83	]	translate	magenta	shapecolor
+block4	[	-2.83	1	2.83	-2.83	]	translate	magenta	shapecolor
+block4	[	-2.83	1	-2.83	-2.83	]	translate	magenta	shapecolor
+block4	[	-4.89	1	0	0	]	translate	orange	shapecolor
+block4	[	0	1	0	-4.89	]	translate	orange	shapecolor
+block4	[	0	1	-4.89	0	]	translate	orange	shapecolor
+block4	[	0	1	4.89	0	]	translate	orange	shapecolor
+block4	[	4.89	1	0	0	]	translate	orange	shapecolor
+block4	[	0	1	0	4.89	]	translate	orange	shapecolor
+
+//level 2								
+block4	[	-4.58	2	0	0	]	translate	yellow	shapecolor
+block4	[	0	2	0	-4.58	]	translate	yellow	shapecolor
+block4	[	0	2	-4.58	0	]	translate	yellow	shapecolor
+block4	[	4.58	2	0	0	]	translate	yellow	shapecolor
+block4	[	0	2	4.58	0	]	translate	yellow	shapecolor
+block4	[	0	2	0	4.58	]	translate	yellow	shapecolor
+block4	[	2.64	2	-2.64	-2.64	]	translate	blue	shapecolor
+block4	[	2.64	2	-2.64	2.64	]	translate	blue	shapecolor
+block4	[	2.64	2	2.64	-2.64	]	translate	blue	shapecolor
+block4	[	2.64	2	2.64	2.64	]	translate	blue	shapecolor
+block4	[	-2.64	2	-2.64	-2.64	]	translate	blue	shapecolor
+block4	[	-2.64	2	-2.64	2.64	]	translate	blue	shapecolor
+block4	[	-2.64	2	2.64	-2.64	]	translate	blue	shapecolor
+block4	[	-2.64	2	2.64	2.64	]	translate	blue	shapecolor
+
+//level 3									
+block4	[	-4	3	0	0	]	translate	green	shapecolor
+block4	[	0	3	-4	0	]	translate	green	shapecolor
+block4	[	0	3	0	-4	]	translate	green	shapecolor
+block4	[	4	3	0	0	]	translate	green	shapecolor
+block4	[	0	3	4	0	]	translate	green	shapecolor
+block4	[	0	3	0	4	]	translate	green	shapecolor
+block4	[	2.31	3	-2.31	-2.31	]	translate	cyan	shapecolor
+block4	[	2.31	3	-2.31	2.31	]	translate	cyan	shapecolor
+block4	[	2.31	3	2.31	-2.31	]	translate	cyan	shapecolor
+block4	[	2.31	3	2.31	2.31	]	translate	cyan	shapecolor
+block4	[	-2.31	3	2.31	-2.31	]	translate	cyan	shapecolor
+block4	[	-2.31	3	2.31	2.31	]	translate	cyan	shapecolor
+block4	[	-2.31	3	-2.31	-2.31	]	translate	cyan	shapecolor
+block4	[	-2.31	3	-2.31	2.31	]	translate	cyan	shapecolor
+
+//level 4								
+block4	[	-3	4	0	0	]	translate	blue	shapecolor
+block4	[	0	4	-3	0	]	translate	blue	shapecolor
+block4	[	0	4	0	-3	]	translate	blue	shapecolor
+block4	[	3	4	0	0	]	translate	blue	shapecolor
+block4	[	0	4	3	0	]	translate	blue	shapecolor
+block4	[	0	4	0	3	]	translate	blue	shapecolor
+block4	[	1.73	4	1.73	1.73	]	translate	yellow	shapecolor
+block4	[	1.73	4	1.73	-1.73	]	translate	yellow	shapecolor
+block4	[	1.73	4	-1.73	-1.73	]	translate	yellow	shapecolor
+block4	[	1.73	4	-1.73	1.73	]	translate	yellow	shapecolor
+block4	[	-1.73	4	-1.73	-1.73	]	translate	yellow	shapecolor
+block4	[	-1.73	4	-1.73	1.73	]	translate	yellow	shapecolor
+block4	[	-1.73	4	1.73	1.73	]	translate	yellow	shapecolor
+block4	[	-1.73	4	1.73	-1.73	]	translate	yellow	shapecolor
+
+//cap								
+block4	[	0	5	0	0	]	translate	white	shapecolor
