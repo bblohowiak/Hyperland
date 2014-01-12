@@ -1,0 +1,86 @@
+"library" include
+"library3" include
+
+16 0 meshring4 "mesh" def
+
+mesh red 0 heightconst null horizon
+mesh orange 8 0.7 heightpower null horizon
+
+mesh
+[#FFFF99 #FFFFB2 #FFFFCC #FFFFE6 #FFD699 #FFE0B2 #FFEBCC #FFF5E6] colorblend
+[0 1.2 1.2 1.56 1.56 2.09 2.09 3]
+yellow
+[0 0.333 0.667 1]
+5 index sky
+
+mesh yellow 5 sun
+
+block4	[	4	8	0	0	]	translate	#FFFFCC	shapecolor
+block4	[	0	8	4	0	]	translate	#FFFFCC	shapecolor
+block4	[	0	8	0	4	]	translate	#FFFFCC	shapecolor
+block4	[	-4	8	0	0	]	translate	#FFFFCC	shapecolor
+block4	[	0	8	-4	0	]	translate	#FFFFCC	shapecolor
+block4	[	0	8	0	-4	]	translate	#FFFFCC	shapecolor
+block4	[	2.31	8	2.31	2.31	]	translate	yellow	shapecolor
+block4	[	2.31	8	-2.31	-2.31	]	translate	yellow	shapecolor
+block4	[	2.31	8	-2.31	2.31	]	translate	yellow	shapecolor
+block4	[	2.31	8	2.31	-2.31	]	translate	yellow	shapecolor
+block4	[	-2.31	8	-2.31	-2.31	]	translate	yellow	shapecolor
+block4	[	-2.31	8	2.31	2.31	]	translate	yellow	shapecolor
+block4	[	-2.31	8	2.31	-2.31	]	translate	yellow	shapecolor
+block4	[	-2.31	8	-2.31	2.31	]	translate	yellow	shapecolor
+//second from top									
+block4	[	3.88	7	0	0	]	translate	#FFFF99	shapecolor
+block4	[	0	7	3.88	0	]	translate	#FFFF100	shapecolor
+block4	[	0	7	0	3.88	]	translate	#FFFF101	shapecolor
+block4	[	-3.88	7	0	0	]	translate	#FFFF102	shapecolor
+block4	[	0	7	-3.88	0	]	translate	#FFFF103	shapecolor
+block4	[	0	7	0	-3.88	]	translate	#FFFF104	shapecolor
+block4	[	2.24	7	2.24	2.24	]	translate	yellow	shapecolor
+block4	[	2.24	7	-2.24	-2.24	]	translate	yellow	shapecolor
+block4	[	2.24	7	-2.24	2.24	]	translate	yellow	shapecolor
+block4	[	2.24	7	2.24	-2.24	]	translate	yellow	shapecolor
+block4	[	-2.24	7	-2.24	-2.24	]	translate	yellow	shapecolor
+block4	[	-2.24	7	2.24	2.24	]	translate	yellow	shapecolor
+block4	[	-2.24	7	2.24	-2.24	]	translate	yellow	shapecolor
+block4	[	-2.24	7	-2.24	2.24	]	translate	yellow	shapecolor
+//third from top									
+block4	[	3.46	6	0	0	]	translate	#FFCC66	shapecolor
+block4	[	0	6	3.46	0	]	translate	#FFCC67	shapecolor
+block4	[	0	6	0	3.46	]	translate	#FFCC68	shapecolor
+block4	[	-3.46	6	0	0	]	translate	#FFCC69	shapecolor
+block4	[	0	6	-3.46	0	]	translate	#FFCC70	shapecolor
+block4	[	0	6	0	-3.46	]	translate	#FFCC71	shapecolor
+block4	[	2	6	2	2	]	translate	orange	shapecolor
+block4	[	2	6	-2	-2	]	translate	orange	shapecolor
+block4	[	2	6	-2	2	]	translate	orange	shapecolor
+block4	[	2	6	2	-2	]	translate	orange	shapecolor
+block4	[	-2	6	-2	-2	]	translate	orange	shapecolor
+block4	[	-2	6	2	2	]	translate	orange	shapecolor
+block4	[	-2	6	2	-2	]	translate	orange	shapecolor
+block4	[	-2	6	-2	2	]	translate	orange	shapecolor
+//fourth from top									
+block4	[	2.65	5	0	0	]	translate	#FF9999	shapecolor
+block4	[	0	5	2.65	0	]	translate	#FF10000	shapecolor
+block4	[	0	5	0	2.65	]	translate	#FF10001	shapecolor
+block4	[	-2.65	5	0	0	]	translate	#FF10002	shapecolor
+block4	[	0	5	-2.65	0	]	translate	#FF10003	shapecolor
+block4	[	0	5	0	-2.65	]	translate	#FF10004	shapecolor
+block4	[	1.53	5	1.53	1.53	]	translate	red	shapecolor
+block4	[	1.53	5	-1.53	-1.53	]	translate	red	shapecolor
+block4	[	1.53	5	-1.53	1.53	]	translate	red	shapecolor
+block4	[	1.53	5	1.53	-1.53	]	translate	red	shapecolor
+block4	[	-1.53	5	-1.53	-1.53	]	translate	red	shapecolor
+block4	[	-1.53	5	1.53	1.53	]	translate	red	shapecolor
+block4	[	-1.53	5	1.53	-1.53	]	translate	red	shapecolor
+block4	[	-1.53	5	-1.53	1.53	]	translate	red	shapecolor
+//third from top									
+block4	[	0	4	0	0	]	translate		
+		1	blue	facecolor					
+		2	cyan	facecolor					
+		3	blue	facecolor					
+		4	magenta	facecolor					
+		5	white	facecolor					
+		6	magenta	facecolor					
+		7	white	facecolor					
+		8	blue	facecolor					
