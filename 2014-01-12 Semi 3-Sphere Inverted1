@@ -76,11 +76,11 @@ block4	[	-1.53	5	1.53	-1.53	]	translate	red	shapecolor
 block4	[	-1.53	5	-1.53	1.53	]	translate	red	shapecolor
 //third from top									
 block4	[	0	4	0	0	]	translate		
-		1	blue	facecolor					
+		1	magenta	facecolor					
 		2	cyan	facecolor					
 		3	blue	facecolor					
 		4	magenta	facecolor					
 		5	white	facecolor					
-		6	magenta	facecolor					
-		7	white	facecolor					
-		8	blue	facecolor					
+		6	blue	facecolor					
+		7	cyan	facecolor					
+		8	blue	facecolor									
