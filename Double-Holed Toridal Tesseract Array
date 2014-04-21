@@ -1,0 +1,369 @@
+"libnav" include
+
+[0.5 0.5 0.5 0.5] [X- Y+ W- Z-] viewinfo
+[0 0 0 0 0 0 0 0 1 0] true drawinfo
+
+block4 [-0.5 3.5 -0.5 -0.5] [X+ Y+ Z+ W+] place
+0 cx- facecolor
+2 brown facecolor
+4 white facecolor
+6 cf- facecolor
+
+block4 [-0.5 3.5 -0.5 0.5] [X+ Y+ Z+ W+] place
+0 cx- facecolor
+2 brown facecolor
+4 white facecolor
+
+block4 [-0.5 3.5 -0.5 1.5] [X+ Y+ Z+ W+] place
+0 cx- facecolor
+2 brown facecolor
+4 white facecolor
+7 cyan facecolor
+
+block4 [-0.5 3.5 0.5 -0.5] [X+ Y+ Z+ W+] place
+0 cx- facecolor
+2 brown facecolor
+6 cf- facecolor
+
+block4 [-0.5 3.5 0.5 0.5] [X+ Y+ Z+ W+] place
+0 cx- facecolor
+2 brown facecolor
+
+block4 [-0.5 3.5 0.5 1.5] [X+ Y+ Z+ W+] place
+0 cx- facecolor
+2 brown facecolor
+7 cyan facecolor
+
+block4 [-0.5 3.5 1.5 -0.5] [X+ Y+ Z+ W+] place
+0 cx- facecolor
+2 brown facecolor
+5 gray facecolor
+6 cf- facecolor
+
+block4 [-0.5 3.5 1.5 0.5] [X+ Y+ Z+ W+] place
+0 cx- facecolor
+2 brown facecolor
+5 gray facecolor
+
+block4 [-0.5 3.5 1.5 1.5] [X+ Y+ Z+ W+] place
+0 cx- facecolor
+2 brown facecolor
+5 gray facecolor
+7 cyan facecolor
+
+block4 [0.5 3.5 -0.5 -0.5] [X+ Y+ Z+ W+] place
+2 brown facecolor
+4 white facecolor
+6 cf- facecolor
+
+block4 [0.5 3.5 -0.5 0.5] [X+ Y+ Z+ W+] place
+2 brown facecolor
+4 white facecolor
+
+block4 [0.5 3.5 -0.5 1.5] [X+ Y+ Z+ W+] place
+2 brown facecolor
+4 white facecolor
+7 cyan facecolor
+
+block4 [0.5 3.5 0.5 -0.5] [X+ Y+ Z+ W+] place
+2 brown facecolor
+6 cf- facecolor
+
+block4 [0.5 3.5 0.5 1.5] [X+ Y+ Z+ W+] place
+2 brown facecolor
+7 cyan facecolor
+
+block4 [0.5 3.5 1.5 -0.5] [X+ Y+ Z+ W+] place
+2 brown facecolor
+5 gray facecolor
+6 cf- facecolor
+
+block4 [0.5 3.5 1.5 0.5] [X+ Y+ Z+ W+] place
+2 brown facecolor
+5 gray facecolor
+
+block4 [0.5 3.5 1.5 1.5] [X+ Y+ Z+ W+] place
+2 brown facecolor
+5 gray facecolor
+7 cyan facecolor
+
+block4 [1.5 3.5 -0.5 -0.5] [X+ Y+ Z+ W+] place
+1 magenta facecolor
+2 brown facecolor
+4 white facecolor
+6 cf- facecolor
+
+block4 [1.5 3.5 -0.5 0.5] [X+ Y+ Z+ W+] place
+1 magenta facecolor
+2 brown facecolor
+4 white facecolor
+
+block4 [1.5 3.5 -0.5 1.5] [X+ Y+ Z+ W+] place
+1 magenta facecolor
+2 brown facecolor
+4 white facecolor
+7 cyan facecolor
+
+block4 [1.5 3.5 0.5 -0.5] [X+ Y+ Z+ W+] place
+1 magenta facecolor
+2 brown facecolor
+6 cf- facecolor
+
+block4 [1.5 3.5 0.5 0.5] [X+ Y+ Z+ W+] place
+1 magenta facecolor
+2 brown facecolor
+
+block4 [1.5 3.5 0.5 1.5] [X+ Y+ Z+ W+] place
+1 magenta facecolor
+2 brown facecolor
+7 cyan facecolor
+
+block4 [1.5 3.5 1.5 -0.5] [X+ Y+ Z+ W+] place
+1 magenta facecolor
+2 brown facecolor
+5 gray facecolor
+6 cf- facecolor
+
+block4 [1.5 3.5 1.5 0.5] [X+ Y+ Z+ W+] place
+1 magenta facecolor
+2 brown facecolor
+5 gray facecolor
+
+block4 [1.5 3.5 1.5 1.5] [X+ Y+ Z+ W+] place
+1 magenta facecolor
+2 brown facecolor
+5 gray facecolor
+7 cyan facecolor
+
+block4 [-0.5 4.5 -0.5 -0.5] [X+ Y+ Z+ W+] place
+0 cx- facecolor
+4 white facecolor
+6 cf- facecolor
+
+block4 [-0.5 4.5 -0.5 0.5] [X+ Y+ Z+ W+] place
+0 cx- facecolor
+4 white facecolor
+
+block4 [-0.5 4.5 -0.5 1.5] [X+ Y+ Z+ W+] place
+0 cx- facecolor
+4 white facecolor
+7 cyan facecolor
+
+block4 [-0.5 4.5 0.5 -0.5] [X+ Y+ Z+ W+] place
+0 cx- facecolor
+6 cf- facecolor
+
+block4 [-0.55 4.5 0.5 0.5] [X+ Y+ Z+ W+] place
+0 cx- facecolor
+
+block4 [-0.5 4.5 0.5 1.5] [X+ Y+ Z+ W+] place
+0 cx- facecolor
+7 cyan facecolor
+
+block4 [-0.5 4.5 1.5 -0.5] [X+ Y+ Z+ W+] place
+0 cx- facecolor
+5 gray facecolor
+6 cf- facecolor
+
+block4 [-0.5 4.5 1.5 0.5] [X+ Y+ Z+ W+] place
+0 cx- facecolor
+5 gray facecolor
+
+block4 [-0.5 4.5 1.5 1.5] [X+ Y+ Z+ W+] place
+0 cx- facecolor
+5 gray facecolor
+7 cyan facecolor
+
+block4 [0.5 4.5 -0.5 -0.5] [X+ Y+ Z+ W+] place
+4 white facecolor
+6 cf- facecolor
+
+block4 [0.5 4.5 -0.5 0.5] [X+ Y+ Z+ W+] place
+4 white facecolor
+
+block4 [0.5 4.5 -0.5 1.5] [X+ Y+ Z+ W+] place
+4 white facecolor
+7 cyan facecolor
+
+block4 [0.5 4.5 1.5 -0.5] [X+ Y+ Z+ W+] place
+5 gray facecolor
+6 cf- facecolor
+
+block4 [0.5 4.5 1.5 0.5] [X+ Y+ Z+ W+] place
+5 gray facecolor
+
+block4 [0.5 4.5 1.5 1.5] [X+ Y+ Z+ W+] place
+5 gray facecolor
+7 cyan facecolor
+
+block4 [1.5 4.5 -0.5 -0.5] [X+ Y+ Z+ W+] place
+1 magenta facecolor
+4 white facecolor
+6 cf- facecolor
+
+block4 [1.5 4.5 -0.5 0.5] [X+ Y+ Z+ W+] place
+1 magenta facecolor
+4 white facecolor
+
+block4 [1.5 4.5 -0.5 1.5] [X+ Y+ Z+ W+] place
+1 magenta facecolor
+4 white facecolor
+7 cyan facecolor
+
+block4 [1.5 4.5 0.5 -0.5] [X+ Y+ Z+ W+] place
+1 magenta facecolor
+6 cf- facecolor
+
+block4 [1.5 4.5 0.5 0.5] [X+ Y+ Z+ W+] place
+1 magenta facecolor
+
+block4 [1.5 4.5 0.5 1.5] [X+ Y+ Z+ W+] place
+1 magenta facecolor
+7 cyan facecolor
+
+block4 [1.5 4.5 1.5 -0.5] [X+ Y+ Z+ W+] place
+1 magenta facecolor
+5 gray facecolor
+6 cf- facecolor
+
+block4 [1.5 4.5 1.5 0.5] [X+ Y+ Z+ W+] place
+1 magenta facecolor
+5 gray facecolor
+
+block4 [1.5 4.5 1.5 1.5] [X+ Y+ Z+ W+] place
+1 magenta facecolor
+5 gray facecolor
+7 cyan facecolor
+
+block4 [-0.5 5.5 -0.5 -0.5] [X+ Y+ Z+ W+] place
+0 cx- facecolor
+3 cy+ facecolor
+4 white facecolor
+6 cf- facecolor
+
+block4 [-0.5 5.5 -0.5 0.5] [X+ Y+ Z+ W+] place
+0 cx- facecolor
+3 cy+ facecolor
+4 white facecolor
+
+block4 [-0.5 5.5 -0.5 1.5] [X+ Y+ Z+ W+] place
+0 cx- facecolor
+3 cy+ facecolor
+4 white facecolor
+7 cyan facecolor
+
+block4 [-0.5 5.5 0.5 -0.5] [X+ Y+ Z+ W+] place
+0 cx- facecolor
+3 cy+ facecolor
+6 cf- facecolor
+
+block4 [-0.5 5.5 0.5 0.5] [X+ Y+ Z+ W+] place
+0 cx- facecolor
+3 cy+ facecolor
+
+block4 [-0.5 5.5 0.5 1.5] [X+ Y+ Z+ W+] place
+0 cx- facecolor
+3 cy+ facecolor
+7 cyan facecolor
+
+block4 [-0.5 5.5 1.5 -0.5] [X+ Y+ Z+ W+] place
+0 cx- facecolor
+3 cy+ facecolor
+5 gray facecolor
+6 cf- facecolor
+
+block4 [-0.5 5.5 1.5 0.5] [X+ Y+ Z+ W+] place
+0 cx- facecolor
+3 cy+ facecolor
+5 gray facecolor
+
+block4 [-0.5 5.5 1.5 1.5] [X+ Y+ Z+ W+] place
+0 cx- facecolor
+3 cy+ facecolor
+5 gray facecolor
+7 cyan facecolor
+
+block4 [0.5 5.5 -0.5 -0.5] [X+ Y+ Z+ W+] place
+3 cy+ facecolor
+4 white facecolor
+6 cf- facecolor
+
+block4 [0.5 5.5 -0.5 0.5] [X+ Y+ Z+ W+] place
+3 cy+ facecolor
+4 white facecolor
+
+block4 [0.5 5.5 -0.5 1.5] [X+ Y+ Z+ W+] place
+3 cy+ facecolor
+4 white facecolor
+7 cyan facecolor
+
+block4 [0.5 5.5 0.5 -0.5] [X+ Y+ Z+ W+] place
+3 cy+ facecolor
+6 cf- facecolor
+
+block4 [0.5 5.5 0.5 1.5] [X+ Y+ Z+ W+] place
+3 cy+ facecolor
+7 cyan facecolor
+
+block4 [0.5 5.5 1.5 -0.5] [X+ Y+ Z+ W+] place
+3 cy+ facecolor
+5 gray facecolor
+6 cf- facecolor
+
+block4 [0.5 5.5 1.5 0.5] [X+ Y+ Z+ W+] place
+3 cy+ facecolor
+5 gray facecolor
+
+block4 [0.5 5.5 1.5 1.5] [X+ Y+ Z+ W+] place
+3 cy+ facecolor
+5 gray facecolor
+7 cyan facecolor
+
+block4 [1.5 5.5 -0.5 -0.5] [X+ Y+ Z+ W+] place
+1 magenta facecolor
+3 cy+ facecolor
+4 white facecolor
+6 cf- facecolor
+
+block4 [1.5 5.5 -0.5 0.5] [X+ Y+ Z+ W+] place
+1 magenta facecolor
+3 cy+ facecolor
+4 white facecolor
+
+block4 [1.5 5.5 -0.5 1.5] [X+ Y+ Z+ W+] place
+1 magenta facecolor
+3 cy+ facecolor
+4 white facecolor
+7 cyan facecolor
+
+block4 [1.5 5.5 0.5 -0.5] [X+ Y+ Z+ W+] place
+1 magenta facecolor
+3 cy+ facecolor
+6 cf- facecolor
+
+block4 [1.5 5.5 0.5 0.5] [X+ Y+ Z+ W+] place
+1 magenta facecolor
+3 cy+ facecolor
+
+block4 [1.5 5.5 0.5 1.5] [X+ Y+ Z+ W+] place
+1 magenta facecolor
+3 cy+ facecolor
+7 cyan facecolor
+
+block4 [1.5 5.5 1.5 -0.5] [X+ Y+ Z+ W+] place
+1 magenta facecolor
+3 cy+ facecolor
+5 gray facecolor
+6 cf- facecolor
+
+block4 [1.5 5.5 1.5 0.5] [X+ Y+ Z+ W+] place
+1 magenta facecolor
+3 cy+ facecolor
+5 gray facecolor
+
+block4 [1.5 5.5 1.5 1.5] [X+ Y+ Z+ W+] place
+1 magenta facecolor
+3 cy+ facecolor
+5 gray facecolor
+7 cyan facecolor
+
