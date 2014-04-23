@@ -1,0 +1,21 @@
+"libnav" include
+
+16 0 meshring4 "mesh" def
+
+mesh blue 0 heightconst null horizon
+mesh red 8 0.7 heightpower null horizon
+
+mesh
+[#FFFF99 #FFFFB2 #FFFFCC #FFFFE6 #FFD699 #FFE0B2 #FFEBCC #FFF5E6] colorblend
+[0 1.2 1.2 1.56 1.56 2.09 2.09 3]
+blue
+[0 0.333 0.667 1]
+5 index sky
+
+mesh cyan 5 sun
+
+block4	[	0	3	0	0	0	]	translate	white	shapecolor
+block4	[	0	4	0	0	0	]	translate	magenta	shapecolor
+block4	[	0	5	0	0	0	]	translate	cyan	shapecolor
+block4	[	0	4	-1	0	0	]	translate	orange	shapecolor
+block4	[	0	4	1	0	0	]	translate	yellow	shapecolor
