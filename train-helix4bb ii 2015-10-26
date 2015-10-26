@@ -1,0 +1,17 @@
+"libtrain" include
+
+4 1 0.3 0 0 12 cyan red false 0.01 newtrack
+[-1 0 0 -1] x+ z- "sliuliuliuliuliuliuliuliuliuliuliuliuliuliuliuliuliuliuliuliuliuliuliuliuliuliuliuliuliuliuliuliuliuliuliuliuliuliuliuliuliuliuliuliuliuliuliuliuliuliuliuliuliuliuliuliuliuliuliu" track
+
+1 51 platforms
+.1 platformwidth
+
+[
+helixflatcar car
+helixflatcar car
+helixflatcar car
+
+
+]
+0.2 [0 0 0 -1] x- x+ 1 TM_ROTATE train
+
