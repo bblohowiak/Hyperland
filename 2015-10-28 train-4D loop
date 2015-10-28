@@ -1,0 +1,14 @@
+"libtrain" include
+
+nomat
+
+4 1 .8 .05 0 12 cyan red true 0.01 newtrack
+[-1 0 0 -1] x+ z- "sslssisslssisslssiss" track
+
+[
+boxcar4 car
+boxcar4 car
+
+
+]
+2 [0 0 0 -1] x- x+ 1 TM_ROTATE train
