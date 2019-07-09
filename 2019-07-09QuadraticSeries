@@ -1,0 +1,111 @@
+"library" include								
+"library3" include								
+								
+block4 [	0	0	0	0	]	translate	white	shapecolor
+block4 [	0	1	0	0	]	translate	white	shapecolor
+block4 [	0	2	0	0	]	translate	white	shapecolor
+block4 [	0	3	0	0	]	translate	white	shapecolor
+block4 [	0	4	0	0	]	translate	white	shapecolor
+block4 [	0	5	0	0	]	translate	white	shapecolor
+block4 [	0	6	0	0	]	translate	white	shapecolor
+block4 [	0	7	0	0	]	translate	white	shapecolor
+block4 [	1	0	0	0	]	translate	white	shapecolor
+block4 [	2	0	0	0	]	translate	white	shapecolor
+block4 [	3	0	0	0	]	translate	white	shapecolor
+block4 [	0	8	0	0	]	translate	white	shapecolor
+block4 [	1	8	0	0	]	translate	white	shapecolor
+block4 [	2	8	0	0	]	translate	white	shapecolor
+block4 [	3	8	0	0	]	translate	white	shapecolor
+block4 [	3	1	0	0	]	translate	white	shapecolor
+block4 [	3	2	0	0	]	translate	white	shapecolor
+block4 [	3	3	0	0	]	translate	white	shapecolor
+block4 [	3	4	0	0	]	translate	white	shapecolor
+block4 [	3	5	0	0	]	translate	white	shapecolor
+block4 [	3	6	0	0	]	translate	white	shapecolor
+block4 [	3	7	0	0	]	translate	white	shapecolor
+								
+
+block4 [	0	0	15	0	]	translate	yellow	shapecolor
+block4 [	0	1	15	0	]	translate	yellow	shapecolor
+block4 [	0	2	15	0	]	translate	yellow	shapecolor
+block4 [	0	3	15	0	]	translate	yellow	shapecolor
+block4 [	0	4	15	0	]	translate	yellow	shapecolor
+block4 [	0	5	15	0	]	translate	yellow	shapecolor
+block4 [	0	6	15	0	]	translate	yellow	shapecolor
+block4 [	0	7	15	0	]	translate	yellow	shapecolor
+block4 [	1	0	15	0	]	translate	yellow	shapecolor
+block4 [	2	0	15	0	]	translate	yellow	shapecolor
+block4 [	3	0	15	0	]	translate	yellow	shapecolor
+block4 [	0	8	15	0	]	translate	yellow	shapecolor
+block4 [	1	8	15	0	]	translate	yellow	shapecolor
+block4 [	2	8	15	0	]	translate	yellow	shapecolor
+block4 [	3	8	15	0	]	translate	yellow	shapecolor
+block4 [	3	1	15	0	]	translate	yellow	shapecolor
+block4 [	3	2	15	0	]	translate	yellow	shapecolor
+block4 [	3	3	15	0	]	translate	yellow	shapecolor
+block4 [	3	4	15	0	]	translate	yellow	shapecolor
+block4 [	3	5	15	0	]	translate	yellow	shapecolor
+block4 [	3	6	15	0	]	translate	yellow	shapecolor
+block4 [	3	7	15	0	]	translate	yellow	shapecolor
+
+
+block4 [	0	0	1	0	]	translate	brown	shapecolor
+block4 [	0	0	2	0	]	translate	brown	shapecolor
+block4 [	0	0	3	0	]	translate	brown	shapecolor
+block4 [	0	0	4	0	]	translate	brown	shapecolor
+block4 [	0	0	5	0	]	translate	brown	shapecolor
+block4 [	0	0	6	0	]	translate	brown	shapecolor
+block4 [	0	0	7	0	]	translate	brown	shapecolor
+block4 [	0	0	8	0	]	translate	brown	shapecolor
+block4 [	0	0	9	0	]	translate	brown	shapecolor
+block4 [	0	0	10	0	]	translate	brown	shapecolor
+block4 [	0	0	11	0	]	translate	brown	shapecolor
+block4 [	0	0	12	0	]	translate	brown	shapecolor
+block4 [	0	0	13	0	]	translate	brown	shapecolor
+block4 [	0	0	14	0	]	translate	brown	shapecolor
+
+block4 [	0	8	1	0	]	translate	magenta	shapecolor
+block4 [	0	8	2	0	]	translate	magenta	shapecolor
+block4 [	0	8	3	0	]	translate	magenta	shapecolor
+block4 [	0	8	4	0	]	translate	magenta	shapecolor
+block4 [	0	8	5	0	]	translate	magenta	shapecolor
+block4 [	0	8	6	0	]	translate	magenta	shapecolor
+block4 [	0	8	7	0	]	translate	magenta	shapecolor
+block4 [	0	8	8	0	]	translate	magenta	shapecolor
+block4 [	0	8	9	0	]	translate	magenta	shapecolor
+block4 [	0	8	10	0	]	translate	magenta	shapecolor
+block4 [	0	8	11	0	]	translate	magenta	shapecolor
+block4 [	0	8	12	0	]	translate	magenta	shapecolor
+block4 [	0	8	13	0	]	translate	magenta	shapecolor
+block4 [	0	8	14	0	]	translate	magenta	shapecolor
+
+
+block4 [	3	0	1	0	]	translate	red	shapecolor
+block4 [	3	0	2	0	]	translate	red	shapecolor
+block4 [	3	0	3	0	]	translate	red	shapecolor
+block4 [	3	0	4	0	]	translate	red	shapecolor
+block4 [	3	0	5	0	]	translate	red	shapecolor
+block4 [	3	0	6	0	]	translate	red	shapecolor
+block4 [	3	0	7	0	]	translate	red	shapecolor
+block4 [	3	0	8	0	]	translate	red	shapecolor
+block4 [	3	0	9	0	]	translate	red	shapecolor
+block4 [	3	0	10	0	]	translate	red	shapecolor
+block4 [	3	0	11	0	]	translate	red	shapecolor
+block4 [	3	0	12	0	]	translate	red	shapecolor
+block4 [	3	0	13	0	]	translate	red	shapecolor
+block4 [	3	0	14	0	]	translate	red	shapecolor
+
+block4 [	3	8	1	0	]	translate	green	shapecolor
+block4 [	3	8	2	0	]	translate	green	shapecolor
+block4 [	3	8	3	0	]	translate	green	shapecolor
+block4 [	3	8	4	0	]	translate	green	shapecolor
+block4 [	3	8	5	0	]	translate	green	shapecolor
+block4 [	3	8	6	0	]	translate	green	shapecolor
+block4 [	3	8	7	0	]	translate	green	shapecolor
+block4 [	3	8	8	0	]	translate	green	shapecolor
+block4 [	3	8	9	0	]	translate	green	shapecolor
+block4 [	3	8	10	0	]	translate	green	shapecolor
+block4 [	3	8	11	0	]	translate	green	shapecolor
+block4 [	3	8	12	0	]	translate	green	shapecolor
+block4 [	3	8	13	0	]	translate	green	shapecolor
+block4 [	3	8	14	0	]	translate	green	shapecolor
