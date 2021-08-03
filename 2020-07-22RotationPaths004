@@ -1,0 +1,86 @@
+"library" include		
+nomat																									
+																									
+block4 [	5	5	5	5	]	translate	red	shapecolor																	
+block4 [	5	2.5	2.5	5	]	translate	orange	shapecolor																	
+block4 [	5	0	0	5	]	translate	orange	shapecolor																	
+block4 [	5	-2.5	-2.5	5	]	translate	orange	shapecolor																	
+block4 [	5	-5	-5	5	]	translate	orange	shapecolor																	
+block4 [     	2.5	-5	-5	2.5	]	translate	orange	shapecolor																	
+block4 [	0	-5	-5	0	]	translate	orange	shapecolor																	
+block4 [	-2.5	-5	-5	-2.5	]	translate	orange	shapecolor																	
+block4 [	-5	-5	-5	-5	]	translate	green	shapecolor																	
+block4 [       	-5	-2.5	-2.5	-5	]	translate	orange	shapecolor																	
+block4 [	-5	0	0	-5	]	translate	orange	shapecolor																	
+block4 [	-5	2.5	2.5	-5	]	translate	orange	shapecolor																	
+block4 [	-5	5	5	-5	]	translate	orange	shapecolor																	
+block4 [	-2.5	5	5	-2.5	]	translate	orange	shapecolor																	
+block4 [	0	5	5	0	]	translate	orange	shapecolor																	
+block4 [	2.5	5	5	2.5	]	translate	orange	shapecolor																	
+																									
+																									
+block4 [	5	5	-5	-5	]	translate	cyan	shapecolor																	
+block4 [	5	2.5	-2.5	-5	]	translate	cyan	shapecolor																	
+block4 [	5	0	0	-5	]	translate	cyan	shapecolor																	
+block4 [	5	-2.5	2.5	-5	]	translate	cyan	shapecolor																	
+block4 [	5	-5	5	-5	]	translate	cyan	shapecolor																	
+block4 [	2.5	-5	5	-2.5	]	translate	cyan	shapecolor																	
+block4 [	0	-5	5	0	]	translate	cyan	shapecolor																	
+block4 [	-2.5	-5	5	2.5	]	translate	cyan	shapecolor																	
+block4 [	-5	-5	5	5	]	translate	cyan	shapecolor																	
+block4 [	-5	-2.5	2.5	5	]	translate	cyan	shapecolor																	
+block4 [	-5	0	0	5	]	translate	cyan	shapecolor																	
+block4 [	-5	2.5	-2.5	5	]	translate	cyan	shapecolor																	
+block4 [	-2.5	5	-5	2.5	]	translate	cyan	shapecolor																	
+block4 [	0	5	-5	0	]	translate	cyan	shapecolor																	
+block4 [	2.5	5	-5	-2.5	]	translate	cyan	shapecolor																	
+block4 [	-5	5	-5	5	]	translate	cyan	shapecolor																	
+																									
+																									
+																									
+block4 [	5	5	-5	5	]	translate	yellow	shapecolor																	
+block4 [	5	2.5	-5	2.5	]	translate	yellow	shapecolor																	
+																									
+block4 [	5	0	-5	0	]	translate	yellow	shapecolor																	
+block4 [	5	-2.5	-5	-2.5	]	translate	yellow	shapecolor																	
+																									
+block4 [	5	-5	-5	-5	]	translate	yellow	shapecolor																	
+block4 [	2.5	-5	-2.5	-5	]	translate	yellow	shapecolor																	
+																									
+block4 [	0	-5	0	-5	]	translate	yellow	shapecolor																	
+																									
+block4 [	-2.5	-5	2.5	-5	]	translate	yellow	shapecolor																	
+block4 [	-5	-5	5	-5	]	translate	yellow	shapecolor																	
+block4 [	-5	-2.5	5	-2.5	]	translate	yellow	shapecolor																	
+																									
+block4 [	-5	0	5	0	]	translate	yellow	shapecolor																	
+block4 [	-5	2.5	5	2.5	]	translate	yellow	shapecolor																	
+																									
+block4 [	-5	5	5	5	]	translate	yellow	shapecolor																	
+block4 [	-2.5	5	2.5	5	]	translate	yellow	shapecolor																	
+																									
+block4 [	0	5	0	5	]	translate	yellow	shapecolor																	
+block4 [	2.5	5	-2.5	5	]	translate	yellow	shapecolor																	
+																									
+																									
+block4 [	5	5	5	-5	]	translate	magenta	shapecolor																	
+block4 [	5	2.5	5	-2.5	]	translate	magenta	shapecolor																	
+block4 [	5	0	5	0	]	translate	magenta	shapecolor																	
+block4 [	5	-2.5	5	2.5	]	translate	magenta	shapecolor																	
+block4 [	5	-5	5	5	]	translate	magenta	shapecolor																	
+block4 [	2.5	-5	2.5	5	]	translate	magenta	shapecolor																	
+block4 [	0	-5	0	5	]	translate	magenta	shapecolor																	
+block4 [	-2.5	-5	-2.5	5	]	translate	magenta	shapecolor																	
+																									
+block4 [	-5	-5	-5	5	]	translate	magenta	shapecolor																	
+block4 [	-5	-2.5	-5	2.5	]	translate	magenta	shapecolor																	
+																									
+block4 [	-5	0	-5	0	]	translate	magenta	shapecolor																	
+block4 [	-5	2.5	-5	-2.5	]	translate	magenta	shapecolor																	
+																									
+block4 [	-5	5	-5	-5	]	translate	magenta	shapecolor																	
+block4 [	-2.5	5	-2.5	-5	]	translate	magenta	shapecolor																	
+																									
+block4 [	0	5	0	-5	]	translate	magenta	shapecolor																	
+block4 [	2.5	5	2.5	-5	]	translate	magenta	shapecolor																	
+				
